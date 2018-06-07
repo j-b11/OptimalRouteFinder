@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/71e6a65c11497e880dc4a7e60d0b20ac9339b42b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_a1972a0a4b75ee38e8d0c1c3bf1a738345dc611b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/dev/Android/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_c5a4bbaf11ecc3102799614638914a2f13c4ea1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/927cf5cbfac3257e68564adb09d0922cd04e5ac3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_8b6723e070b700c85238e66d594f56160e52b54d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/cf0e9ccdc88ba40a9671b9b7d6a2e13e03c55e8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_0d78ea68f1e35612a63e0343cb7e653393e9c2ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/3df508a310afe7b5fac048283d265b17c78ea868/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_1459260180de195a5783a77336bcc9f03fcdd39b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/ad4c9107641ba4ca26e9c3f06856888f17746d9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_1b29bcad9ba49d15c09187254667cb306fdf5f37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/dev/Android/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0c93de3fcac75881bad9b938f00454231cb383bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/020205d0d6b3990425edd38eec58dc90d3aabbd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd directions/app/build/intermediates/pre-dexed/debug/classes_e514d2ac70866802077a06f1e46d1e792d694e27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/2aeb9edab85d9d9790995ab2406fede3703cea4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_d4b62aac008800d85a057b8581deccc51fd2f37d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/e17e30209a2e468a09648e92bf1eff926a41300d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_7161cde148cda878814d910e2a9d58c5996b7110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/d47a3daeb440c7fab793cbd263255717ee1ef415/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_34be1ca0c1855d5b075dbb8a852496510fda447c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/b806a65300960bfe0d64b5b335dd0b17751de606/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_d8345ba83dde2df9b78229454e5c84e7e6b695f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/d7580209c804968f37d2797894909178c4bf8d65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_9eb8fffef2b31a6a7f78e938e5e90ec0100c85f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/fd498261f5a872b27e4b048fac68ba417cb2c0bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_1c265c5b303017788f7ae070d326980b4693c824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/a7a00aa59c46b5155d717e4f59843c01b1e6d07a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_d2bcd37de8321da9c87b71ab4150f5a64f14d2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/f5cc56f57afe72f3d1e291b1e0f75c486bef1c84/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_53f78ca6a0c6f980311ceeca5bb1aca89e5174cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/794d38ad6890db85592db64e20f27f7293cb3444/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_28acc541dfe80f122369c25c81437cc640070939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/8f80ad0c7773f95e3b101b918fab68113fdaf26f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_23fc9deaa702a7424be4711709ea55a1685c1372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/6868d2386c11388be532614595bfab29dbee3d34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_71a16fb40d130df5d9348919e0ff4e090f9ba44d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/1d72a56051809f2f785219bef657e219f1926c17/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_ee2daa42ff2380228321eb517351c272aba8afbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brian/.android/build-cache/29ac5687c56156f8e8b1a1179827a5487adf6658/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/brian/dev/Android-studio-projects/ZaplanujWyjazd/app/build/intermediates/pre-dexed/debug/classes_ddb7860801d70b72c1f33635c8778d3352c3c98a.jar" />
+    </item>
+
+</items>

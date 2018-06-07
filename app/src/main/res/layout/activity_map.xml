@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.brian.zaplanujwyjazd.MapActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/optymalization_menu"
+        android:layout_alignParentTop="true"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/optymalization_mode"
+            android:layout_weight="1"
+            android:textColor="@android:color/black"
+            android:textSize="15sp"/>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:entries="@array/optymalization_modes"
+            android:id="@+id/optymalization_mode_spinner">
+        </Spinner>
+
+    </LinearLayout>
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        tools:context=".MapActivity"
+        android:layout_below="@+id/optymalization_menu"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/optymalization_menu"
+        android:layout_marginTop="13dp"
+        android:layout_centerHorizontal="true">
+
+        <Button
+            android:id="@+id/driving_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorMapButtonClicked"
+            android:text="@string/icon_car"
+            android:textColor="#ffffff"
+            android:textSize="26sp"
+            android:layout_marginRight="5dp"
+            android:onClick="onClick"
+            style="@style/Base.Widget.AppCompat.Button.Small"/>
+
+        <Button
+            android:id="@+id/bicycling_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorMapButtonDefault"
+            android:text="@string/icon_bicycle"
+            android:textColor="#ffffff"
+            android:textSize="26sp"
+            android:layout_marginRight="5dp"
+            android:onClick="onClick"
+            style="@style/Base.Widget.AppCompat.Button.Small"/>
+
+        <Button
+            android:id="@+id/walking_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorMapButtonDefault"
+            android:text="@string/icon_walking"
+            android:textColor="#ffffff"
+            android:textSize="26sp"
+            android:layout_marginRight="5dp"
+            android:onClick="onClick"
+            style="@style/Base.Widget.AppCompat.Button.Small"/>
+
+    </LinearLayout>
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/map">
+
+        <TextView
+            android:id="@+id/matrix"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp" />
+
+    </ScrollView>
+
+</RelativeLayout>
+

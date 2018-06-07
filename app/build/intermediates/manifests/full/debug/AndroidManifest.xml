@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.brian.zaplanujwyjazd"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCrKYJE6hvLtf9oxI2jlKMleKn6JK1Fxdc" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="com.brian.zaplanujwyjazd.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.brian.zaplanujwyjazd.MapActivity"
+            android:label="@string/title_activity_maps"
+            android:parentActivityName="com.brian.zaplanujwyjazd.PlacesListActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.brian.zaplanujwyjazd.PlacesListActivity" />
+        </activity>
+        <activity
+            android:name="com.brian.zaplanujwyjazd.AddPlaceActivity"
+            android:label="@string/title_activity_add_place"
+            android:parentActivityName="com.brian.zaplanujwyjazd.MainActivity"
+            android:windowSoftInputMode="stateHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.brian.zaplanujwyjazd.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.brian.zaplanujwyjazd.PlacesListActivity"
+            android:label="@string/title_activity_places_list"
+            android:parentActivityName="com.brian.zaplanujwyjazd.SelectPlaceActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.brian.zaplanujwyjazd.SelectPlaceActivity" />
+        </activity>
+        <activity
+            android:name="com.brian.zaplanujwyjazd.SelectPlaceActivity"
+            android:label="@string/title_activity_select_place"
+            android:parentActivityName="com.brian.zaplanujwyjazd.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.brian.zaplanujwyjazd.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.brian.zaplanujwyjazd.FindPlaceActivity"
+            android:parentActivityName="com.brian.zaplanujwyjazd.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.brian.zaplanujwyjazd.MainActivity" />
+        </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

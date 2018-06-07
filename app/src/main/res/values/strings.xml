@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Zaplanuj Wyjazd</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_add_place">Dodaj miejsce</string>
+    <string name="title_activity_load_file">Wczytaj plik</string>
+    <string name="title_activity_places_list">Wybrane miejsca</string>
+    <string name="title_activity_select_place">Wybierz miejsce</string>
+
+    <string name="plan_route">Zaplanuj trase</string>
+    <string name="load_file">Załaduj plik</string>
+    <string name="select_file">Wybierz plik</string>
+    <string name="load_places_to_db">Wczytaj miejsca</string>
+    <string name="select_category">Wybierz kategorię: </string>
+    <string name="weight">"Waga: "</string>
+    <string name="weight_without_space">Waga:</string>
+    <string name="find_route">Znajdz drogę</string>
+    <string name="add_place_to_database">Dodaj miejsce do bazy danych</string>
+    <string name="add_place">Dodaj miejsce</string>
+    <string name="name">Nazwa</string>
+    <string name="latitude">Szer. geograficzna</string>
+    <string name="longitude">Dł. geograficzna</string>
+    <string name="category1">Kategoria 1: </string>
+    <string name="category2">Kategoria 2: </string>
+    <string name="category3">Kategoria 3: </string>
+    <string name="description">Opis</string>
+    <string name="add">Dodaj</string>
+    <string name="enter_or_select_categories">Wybierz/wpisz kategorie</string>
+    <string name="type_category">Wpisz kategorie</string>
+    <string name="selected_places">Wybrane miejsca:</string>
+    <string name="select_place">Wybierz miejsce:</string>
+    <string name="optymalization_mode">Optymalizuj według:</string>
+
+    <string name="database_is_not_available">Baza danych jest niedostępna</string>
+    <string name="added">Dodano </string>
+    <string name="to_database"> do bazy danych</string>
+    <string name="enter_valid_data">Wpisz poprawne dane!</string>
+    <string name="select_txt_file">Wybierz plik tekstowy</string>
+    <string name="please_install_file_manager">Proszę zainstalować Manager Plików</string>
+    <string name="places_to_database"> miejsc do bazy danych</string>
+    <string name="could_not_read_this_file">Nie można odczytać tego pliku</string>
+    <string name="select_file_first">Najpierw wybierz plik!</string>
+    <string name="current_location">Bieżąca lokalizacja</string>
+    <string name="message_place_is_to_far">" jest za daleko od Ciebie dla wagi "</string>
+    <string name="message_firs_select_place">Najpierw wybierz miejsce!</string>
+    <string name="message_this_place_has_already_been_selected">To miejsce zostało już wybrane!</string>
+    <string name="message_you_cant_select_more_places">Nie możesz wybrać więcej miejsc!</string>
+    <string name="dialog_message">Czy napewno chcesz wrócic do menu głównego? Utracisz listę wybranych miejsc!</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="warning">Uwaga!</string>
+    <string name="please_wait">Proszę czekać</string>
+    <string name="finding_best_rute">Znajdowanie najlepszej trasy…</string>
+    <string name="distance_matrix_for">"Macierz odległości dla "</string>
+    <string name="time_matrix_for">"Macierz czasu dla "</string>
+    <string name="optimal_route">"Optymalna trasa: "</string>
+    <string name="shortest_path">"Najkrótsza droga: "</string>
+    <string name="longest_path">"Najdłuższa droga: "</string>
+    <string name="fastest_path">"Najszybsza droga: "</string>
+    <string name="slowest_path">"Najwolniejsza droga: "</string>
+    <string name="places">" miejsc "</string>
+    <string name="rating">"Ocena: "</string>
+    <string name="add_your_own_place">Dodaj własne miejsce</string>
+    <string name="radious">"Promień [m] :"</string>
+    <string name="enter_radious">"Wpisz promień"</string>
+    <string name="category">Kategoria:</string>
+    <string name="enter_keywords">Wpisz słowa kluczowe</string>
+    <string name="open_now">Otwarte teraz</string>
+    <string name="find">Szukaj</string>
+    <string name="found_places">Znalezione miejsca:</string>
+
+
+    <string name="GoogleMapsDirectionsApiKey2">AIzaSyDhp9Eh5QW7BjBsHWbzr84rf29kK0eW9RM</string>
+    <string name="GoogleMapsDirectionsApiKey">AIzaSyDJSTSB3Ugunwpv9esz5In0Dnkpx2cNP08</string>
+
+    <string-array name="spinner_weight">
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="optymalization_modes">
+        <item>Odległości</item>
+        <item>Czasu</item>
+    </string-array>
+
+    <string-array name="spinner_category">
+        <item>Moje miejsca</item>
+        <item>Atrakcja turystyczna</item>
+        <item>Basen</item>
+        <item>Centrum handlowe</item>
+        <item>Kino</item>
+        <item>Kultura</item>
+        <item>Park</item>
+        <item>Pub</item>
+        <item>Restauracja</item>
+        <item>Sport</item>
+        <item>Szkoła</item>
+        <item>Szpital</item>
+        <item>Teatr</item>
+    </string-array>
+
+
+    <string name="icon_car" translatable="false">&#xf36f;</string>
+    <string name="icon_bicycle" translatable="false">&#xf369;</string>
+    <string name="icon_walking" translatable="false">&#xf3bb;</string>
+    <string name="icon_delete" translatable="false">&#xf36e;</string>
+
+</resources>

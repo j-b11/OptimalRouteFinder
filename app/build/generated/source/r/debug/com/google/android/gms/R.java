@@ -75,24 +75,24 @@ public final class R {
         public static final int googleg_standard_color_18 = 0x7f080077;
     }
     public static final class id {
-        public static final int adjust_height = 0x7f09001d;
-        public static final int adjust_width = 0x7f09001e;
-        public static final int auto = 0x7f090024;
-        public static final int center = 0x7f090031;
-        public static final int dark = 0x7f09003f;
-        public static final int hybrid = 0x7f09005c;
-        public static final int icon_only = 0x7f09005f;
-        public static final int light = 0x7f09006e;
-        public static final int none = 0x7f090084;
-        public static final int normal = 0x7f090085;
-        public static final int radio = 0x7f090094;
-        public static final int satellite = 0x7f090099;
-        public static final int standard = 0x7f0900c2;
-        public static final int terrain = 0x7f0900c8;
-        public static final int text = 0x7f0900c9;
-        public static final int text2 = 0x7f0900ca;
-        public static final int wide = 0x7f0900e6;
-        public static final int wrap_content = 0x7f0900ea;
+        public static final int adjust_height = 0x7f09001c;
+        public static final int adjust_width = 0x7f09001d;
+        public static final int auto = 0x7f090023;
+        public static final int center = 0x7f090030;
+        public static final int dark = 0x7f09003e;
+        public static final int hybrid = 0x7f09005b;
+        public static final int icon_only = 0x7f09005e;
+        public static final int light = 0x7f09006d;
+        public static final int none = 0x7f090083;
+        public static final int normal = 0x7f090084;
+        public static final int radio = 0x7f090093;
+        public static final int satellite = 0x7f090098;
+        public static final int standard = 0x7f0900c0;
+        public static final int terrain = 0x7f0900c6;
+        public static final int text = 0x7f0900c7;
+        public static final int text2 = 0x7f0900c8;
+        public static final int wide = 0x7f0900e2;
+        public static final int wrap_content = 0x7f0900e6;
     }
     public static final class integer {
         public static final int google_play_services_version = 0x7f0a0007;

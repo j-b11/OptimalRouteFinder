@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Thu Jun 07 13:00:00 CEST 2018
-1.base=/home/brian/Desktop/Azns projekt/ZaplanujWyjazd/app/build/intermediates/assets/debug
+#Sun Jun 10 19:26:42 CEST 2018
+1.base=/home/brian/Desktop/Jacek Bielecki azns project/ZaplanujWyjazd/app/build/intermediates/assets/debug
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=ASSET
 0.path=classes.dex
 0.set=DEX
-0.base=/home/brian/Desktop/Azns projekt/ZaplanujWyjazd/app/build/intermediates/transforms/dexMerger/debug/0
+0.base=/home/brian/Desktop/Jacek Bielecki azns project/ZaplanujWyjazd/app/build/intermediates/transforms/dexMerger/debug/0
 1.path=ionicons.ttf

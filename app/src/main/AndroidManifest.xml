@@ -59,14 +59,6 @@
                 android:value="com.brian.zaplanujwyjazd.SelectPlaceActivity" />
         </activity>
         <activity
-            android:name=".SelectPlaceActivity"
-            android:label="@string/title_activity_select_place"
-            android:parentActivityName=".MainActivity">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.brian.zaplanujwyjazd.MainActivity" />
-        </activity>
-        <activity
             android:name=".FindPlaceActivity"
             android:theme="@style/AppTheme.NoActionBar"
             android:parentActivityName=".MainActivity"

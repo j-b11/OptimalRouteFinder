@@ -68,16 +68,12 @@
     <string name="open_now">Otwarte teraz</string>
     <string name="find">Szukaj</string>
     <string name="found_places">Znalezione miejsca:</string>
+    <string name="current_location_desc">"Dodaj to miejsce, jeśli chcesz, aby bieżąca lokalizacja była uwzględniana przy planowaniu trasy"</string>
 
 
     <string name="GoogleMapsDirectionsApiKey2">AIzaSyDhp9Eh5QW7BjBsHWbzr84rf29kK0eW9RM</string>
     <string name="GoogleMapsDirectionsApiKey">AIzaSyDJSTSB3Ugunwpv9esz5In0Dnkpx2cNP08</string>
 
-    <string-array name="spinner_weight">
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
-    </string-array>
 
     <string-array name="optymalization_modes">
         <item>Odległości</item>

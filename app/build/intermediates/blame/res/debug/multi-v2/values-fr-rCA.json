@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/brian/Desktop/Azns projekt/ZaplanujWyjazd/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/home/brian/Desktop/Jacek Bielecki azns project/ZaplanujWyjazd/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "/home/brian/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/4b1c5a510f488fbc80df485ebdc2d4d3/res/values-fr-rCA/values.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/brian/Desktop/Azns projekt/ZaplanujWyjazd/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
+            "outputFile": "/home/brian/Desktop/Jacek Bielecki azns project/ZaplanujWyjazd/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
             "map": [
                 {
                     "source": "/home/brian/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/d4e3c32685f777388497aff25f4e5a82/res/values-km/values.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/brian/Desktop/Azns projekt/ZaplanujWyjazd/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/home/brian/Desktop/Jacek Bielecki azns project/ZaplanujWyjazd/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
                     "source": "/home/brian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/59c2a9cbb8e9e1dee2645ee0cb405a8a/res/values-v16/values-v16.xml",

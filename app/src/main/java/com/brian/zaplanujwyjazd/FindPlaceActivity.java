@@ -154,10 +154,11 @@ public class FindPlaceActivity extends AppCompatActivity implements LocationList
     public void setListValues() {
         ListView foundPlacesList = findViewById(R.id.found_places_list);
         MyListAdapter adapter;
-        if (category.equals("Moje miejsca") || category.equals("Moje+miejsca")) {
+        if (category.equals("Moje miejsca") || category.equals("Moje+miejsca")
+                || category.equals("My places") || category.equals("My+places")) {
             currentLocation = new Place();
             currentLocation.setName(getResources().getString(R.string.current_location));
-            currentLocation.setDescription("Dodaj to miejsce, jeśli chcesz, aby bieżąca lokalizacja była uwzględniana przy planowaniu trasy");
+            currentLocation.setDescription(getResources().getString(R.string.current_location_desc));
             foundPlaces = (ArrayList<Place>) getPlacesFromDatabase();
             foundPlaces.add(0, currentLocation);
         }

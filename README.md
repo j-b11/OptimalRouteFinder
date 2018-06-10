@@ -32,3 +32,61 @@ If you are going to use this project you should replace the default Google Maps 
 You can get your own Google Maps Api Key [here](https://developers.google.com/maps/documentation/android-sdk/signup).
 
 
+## Screenshots:
+
+### Finding places: 
+User places from local database:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%201.png)
+
+
+Selecting place category:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%202.png)
+
+
+Found places from category "Shopping center" in radious 500m from user location:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%203.png)
+
+
+Finding places by keywords:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%204.png)
+
+
+Selecting place: 
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%205.png)
+
+
+Selected place added on selected places list:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/selected%20places%201.png)
+
+
+Creating sample selected places list:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/selected%20places%202.png)
+
+
+Finding best route for selected places list:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/finding%20best%20route.png)
+
+
+Best route for driving mode with optimization by distance:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%201.png)
+
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%202.png)
+
+
+Best route for driving mode with optimization by time:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%203.png)
+
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%204.png)
+
+
+Best route for walking mode with optimization by distance:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%205.png)
+
+
+Best route for cycling mode with optimization by distance:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%206.png)
+
+
+Start navigation to an example point:
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/navigate.png)
+

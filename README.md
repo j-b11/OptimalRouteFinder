@@ -25,8 +25,6 @@ The description of the problem and the ways to implement solutions to this probl
 
 Communication with all those services is based on HTTP REST protocol. Getting a JSON file as response, which is parsing to get all necessary data.
 
------------------------------------------------------------
-
 The minimal version of Android SDK: 19
 
 If you are going to use this project you should replace the default Google Maps Api Key with your own.

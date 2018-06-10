@@ -36,7 +36,7 @@ You can get your own Google Maps Api Key [here](https://developers.google.com/ma
 
 ### Finding places: 
 User places from local database:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%201.png =432x768)
+![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%201.png  | width=100)
 
 
 Selecting place category:

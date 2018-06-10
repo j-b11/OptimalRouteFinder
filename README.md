@@ -64,29 +64,29 @@ Creating sample selected places list:
 
 
 Finding best route for selected places list:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/finding%20best%20route.png)
+!map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/finding%20best%20route.png)
 
 
 Best route for driving mode with optimization by distance:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%201.png)
+![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%201.png)
 
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%202.png)
+![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%202.png)
 
 
 Best route for driving mode with optimization by time:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%203.png)
+![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%203.png)
 
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%204.png)
+![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%204.png)
 
 
 Best route for walking mode with optimization by distance:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%205.png)
+![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%205.png)
 
 
 Best route for cycling mode with optimization by distance:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%206.png)
+![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%206.png)
 
 
 Start navigation to an example point:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/navigate.png)
+![navigation](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/navigate.png)
 

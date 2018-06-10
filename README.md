@@ -35,51 +35,63 @@ You can get your own Google Maps Api Key [here](https://developers.google.com/ma
 ## Screenshots:
 
 ### Finding places: 
+
 User places from local database:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%201.png" width="360" height="640">
 
 
 Selecting place category:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%202.png" width="360" height="640">
 
 
 Found places from category "Shopping center" in radious 500m from user location:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%203.png" width="360" height="640">
 
 
 Finding places by keywords:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%204.png" width="360" height="640">
 
 
 Selecting place:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%205.png" width="360" height="640">
 
 
 Selected place added on selected places list:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/selected%20places%201.png" width="360" height="640">
 
 
 Creating sample selected places list:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/selected%20places%202.png" width="360" height="640">
 
 
 Finding best route for selected places list:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/finding%20best%20route.png" width="360" height="640">
 
 
 Best route for driving mode with optimization by distance:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%201.png" width="360" height="640">
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%202.png" width="360" height="640">
 
 
 Best route for driving mode with optimization by time:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%203.png" width="360" height="640">
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%204.png" width="360" height="640">
 
 
 Best route for walking mode with optimization by distance:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%205.png" width="360" height="640">
 
 

@@ -34,8 +34,6 @@ You can get your own Google Maps Api Key [here](https://developers.google.com/ma
 
 ## Screenshots:
 
-### Finding places: 
-
 User places from local database:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%201.png" width="360" height="640">
@@ -96,9 +94,11 @@ Best route for walking mode with optimization by distance:
 
 
 Best route for cycling mode with optimization by distance:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%206.png" width="360" height="640">
 
 
 Start navigation to an example point:
+
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/navigate.png" width="360" height="640">
 

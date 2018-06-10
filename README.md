@@ -51,7 +51,7 @@ Finding places by keywords:
 ![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%204.png)
 
 
-Selecting place: 
+Selecting place:
 ![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%205.png)
 
 

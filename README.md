@@ -39,6 +39,9 @@ User places from local database:
 ![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%201.png)
 
 
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%201.png" width="432" height="768">
+
+
 Selecting place category:
 ![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%202.png)
 

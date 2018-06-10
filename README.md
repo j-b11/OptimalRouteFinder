@@ -36,60 +36,57 @@ You can get your own Google Maps Api Key [here](https://developers.google.com/ma
 
 ### Finding places: 
 User places from local database:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%201.png)
-
-
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%201.png" width="360" height="640">
 
 
 Selecting place category:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%202.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%202.png" width="360" height="640">
 
 
 Found places from category "Shopping center" in radious 500m from user location:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%203.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%203.png" width="360" height="640">
 
 
 Finding places by keywords:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%204.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%204.png" width="360" height="640">
 
 
 Selecting place:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%205.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%205.png" width="360" height="640">
 
 
 Selected place added on selected places list:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/selected%20places%201.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/selected%20places%201.png" width="360" height="640">
 
 
 Creating sample selected places list:
-![Selecting place](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/selected%20places%202.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/selected%20places%202.png" width="360" height="640">
 
 
 Finding best route for selected places list:
-!map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/finding%20best%20route.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/finding%20best%20route.png" width="360" height="640">
 
 
 Best route for driving mode with optimization by distance:
-![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%201.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%201.png" width="360" height="640">
 
-![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%202.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%202.png" width="360" height="640">
 
 
 Best route for driving mode with optimization by time:
-![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%203.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%203.png" width="360" height="640">
 
-![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%204.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%204.png" width="360" height="640">
 
 
 Best route for walking mode with optimization by distance:
-![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%205.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%205.png" width="360" height="640">
 
 
 Best route for cycling mode with optimization by distance:
-![map](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%206.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%206.png" width="360" height="640">
 
 
 Start navigation to an example point:
-![navigation](https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/navigate.png)
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/navigate.png" width="360" height="640">
 

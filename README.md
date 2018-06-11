@@ -45,7 +45,7 @@ Then, you can select place from user places (local database):
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%201.png" width="360" height="640">
 
 
-Or you can aslo select other category. In this case, places will be searched using the [Google Places web service](https://developers.google.com/places/web-service/intro) :
+Or you can aslo select other category. In this case, places will be searched using the [Google Places](https://developers.google.com/places/web-service/intro) web service:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%202.png" width="360" height="640">
 
@@ -83,7 +83,7 @@ This is an example of found route for driving mode with optimization by distance
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%201.png" width="360" height="640">
 
-Below the map, you can find more information about found route, e.g. shortest path, which has been found or the longest possible path. There is also information about the order in which selected places should be visited so that the route will be optimal. In this section, there is also a distance matrix or a time matrix from which the best possible route has been found. This matrix was made using the [Google Distance Matrix web service](https://developers.google.com/maps/documentation/distance-matrix/intro)
+Below the map, you can find more information about found route, e.g. shortest path, which has been found or the longest possible path. There is also information about the order in which selected places should be visited so that the route will be optimal. In this section, there is also a distance matrix or a time matrix from which the best possible route has been found. This matrix was made using the [Google Distance Matrix](https://developers.google.com/maps/documentation/distance-matrix/intro) web service.
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%202.png" width="360" height="640">
 

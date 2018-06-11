@@ -46,7 +46,7 @@
     <string name="message_this_place_has_already_been_selected">To miejsce zostało już wybrane!</string>
     <string name="message_you_cant_select_more_places">Nie możesz wybrać więcej miejsc!</string>
     <string name="please_wait">Proszę czekać</string>
-    <string name="finding_best_rute">Znajdowanie najlepszej trasy…</string>
+    <string name="finding_best_route">Znajdowanie najlepszej trasy…</string>
     <string name="distance_matrix_for">"Macierz odległości dla "</string>
     <string name="time_matrix_for">"Macierz czasu dla "</string>
     <string name="optimal_route">"Optymalna trasa: "</string>
@@ -57,8 +57,8 @@
     <string name="places">" miejsc "</string>
     <string name="rating">"Ocena: "</string>
     <string name="add_your_own_place">Dodaj własne miejsce</string>
-    <string name="radious">"Promień [m] :"</string>
-    <string name="enter_radious">"Wpisz promień"</string>
+    <string name="radius">"Promień [m] :"</string>
+    <string name="enter_radius">"Wpisz promień"</string>
     <string name="category">Kategoria:</string>
     <string name="enter_keywords">Wpisz słowa kluczowe</string>
     <string name="open_now">Otwarte teraz</string>
@@ -79,7 +79,7 @@
     <string name="yes">Tak</string>
     <string name="no">Nie</string>
     <string name="warning">Uwaga!</string>
-    <string name="optymalization_mode">Optymalizuj według:</string>
+    <string name="optimization_mode">Optymalizuj według:</string>
 
 
 

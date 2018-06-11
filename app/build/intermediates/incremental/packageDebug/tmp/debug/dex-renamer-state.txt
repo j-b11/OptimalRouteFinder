@@ -1,4 +1,4 @@
-#Sun Jun 10 19:26:42 CEST 2018
+#Mon Jun 11 12:10:21 CEST 2018
 base.0=/home/brian/Desktop/Jacek Bielecki azns project/ZaplanujWyjazd/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

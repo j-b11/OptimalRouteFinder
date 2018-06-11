@@ -15,8 +15,9 @@ int anim design_snackbar_out 0x7f01000d
 int anim tooltip_enter 0x7f01000e
 int anim tooltip_exit 0x7f01000f
 int animator design_appbar_state_list_animator 0x7f020000
-int array optymalization_modes 0x7f030000
-int array spinner_category 0x7f030001
+int array optimization_modes 0x7f030000
+int array optymalization_modes 0x7f030001
+int array spinner_category 0x7f030002
 int attr actionBarDivider 0x7f040000
 int attr actionBarItemBackground 0x7f040001
 int attr actionBarPopupTheme 0x7f040002
@@ -1244,12 +1245,12 @@ int string dialog_message 0x7f0e0044
 int string distance_matrix_for 0x7f0e0045
 int string enter_keywords 0x7f0e0046
 int string enter_or_select_categories 0x7f0e0047
-int string enter_radious 0x7f0e0048
+int string enter_radius 0x7f0e0048
 int string enter_valid_data 0x7f0e0049
 int string fastest_path 0x7f0e004a
 int string find 0x7f0e004b
 int string find_route 0x7f0e004c
-int string finding_best_rute 0x7f0e004d
+int string finding_best_route 0x7f0e004d
 int string found_places 0x7f0e004e
 int string icon_bicycle 0x7f0e004f
 int string icon_car 0x7f0e0050
@@ -1268,7 +1269,7 @@ int string name 0x7f0e005c
 int string no 0x7f0e005d
 int string open_now 0x7f0e005e
 int string optimal_route 0x7f0e005f
-int string optymalization_mode 0x7f0e0060
+int string optimization_mode 0x7f0e0060
 int string password_toggle_content_description 0x7f0e0061
 int string path_password_eye 0x7f0e0062
 int string path_password_eye_mask_strike_through 0x7f0e0063
@@ -1279,7 +1280,7 @@ int string places_to_database 0x7f0e0067
 int string plan_route 0x7f0e0068
 int string please_install_file_manager 0x7f0e0069
 int string please_wait 0x7f0e006a
-int string radious 0x7f0e006b
+int string radius 0x7f0e006b
 int string rating 0x7f0e006c
 int string search_menu_title 0x7f0e006d
 int string select_category 0x7f0e006e

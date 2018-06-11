@@ -338,7 +338,7 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
     void showProgressDialog(Context context){
         dialog = new ProgressDialog(context);
         dialog.setTitle(getString(R.string.please_wait));
-        dialog.setMessage(getString(R.string.finding_best_rute));
+        dialog.setMessage(getString(R.string.finding_best_route));
         dialog.setCancelable(false);
         dialog.setCanceledOnTouchOutside(false);
         dialog.show();

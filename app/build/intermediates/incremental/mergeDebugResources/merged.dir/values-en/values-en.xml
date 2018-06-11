@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="optymalization_modes">
+    <string-array name="optimization_modes">
         <item>Distance</item>
         <item>Time</item>
     </string-array>
@@ -26,7 +26,7 @@
     <string name="add_place_to_database">Add place</string>
     <string name="add_your_own_place">Add your own place</string>
     <string name="added">Added</string>
-    <string name="app_name">ZaplanujWyjazd</string>
+    <string name="app_name">Optimal Route Finder</string>
     <string name="category">Category:</string>
     <string name="category1">Category 1:</string>
     <string name="category2">Category 2:</string>
@@ -40,12 +40,12 @@
     <string name="distance_matrix_for">"Distance matrix for "</string>
     <string name="enter_keywords">Enter keywords</string>
     <string name="enter_or_select_categories">Select/enter categories</string>
-    <string name="enter_radious">"Enter radious"</string>
+    <string name="enter_radius">"Enter radius"</string>
     <string name="enter_valid_data">Enter a valid data</string>
-    <string name="fastest_path">"NFastest path: "</string>
+    <string name="fastest_path">"Fastest path: "</string>
     <string name="find">Find places</string>
     <string name="find_route">Find Road</string>
-    <string name="finding_best_rute">Finding best rute…</string>
+    <string name="finding_best_route">Finding best route…</string>
     <string name="found_places">Found places:</string>
     <string name="latitude">Latitude</string>
     <string name="load_file">Load file</string>
@@ -60,14 +60,14 @@
     <string name="no">No</string>
     <string name="open_now">Open now</string>
     <string name="optimal_route">"Optimal route: "</string>
-    <string name="optymalization_mode">Optymalize by:</string>
+    <string name="optimization_mode">Optimize by:</string>
     <string name="places">" places "</string>
     <string name="places_to_database">places to database</string>
     <string name="plan_route">Plan route</string>
     <string name="please_install_file_manager">Please install a File Manager</string>
     <string name="please_wait">Please wait</string>
-    <string name="radious">"Radious [m] :"</string>
-    <string name="rating">"Ocena: "</string>
+    <string name="radius">"Radius [m] :"</string>
+    <string name="rating">"Rating: "</string>
     <string name="select_category">Select category: </string>
     <string name="select_file">Select file</string>
     <string name="select_file_first">Select file first!</string>
@@ -79,11 +79,11 @@
     <string name="time_matrix_for">"Time matrix for "</string>
     <string name="title_activity_add_place">Add Place</string>
     <string name="title_activity_load_file">Load file</string>
-    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps">Maps Activity</string>
     <string name="title_activity_places_list">Selected places:</string>
     <string name="title_activity_select_place">Select Place</string>
     <string name="to_database">to database</string>
-    <string name="type_category">Enter a category</string>
+    <string name="type_category">Enter keywords</string>
     <string name="warning">Warning!</string>
     <string name="weight">"Weight: "</string>
     <string name="weight_without_space">Weight:</string>

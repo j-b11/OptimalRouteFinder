@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">ZaplanujWyjazd</string>
+    <string name="app_name">Optimal Route Finder</string>
 
-    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps">Maps Activity</string>
     <string name="title_activity_load_file">Load file</string>
     <string name="title_activity_add_place">Add Place</string>
     <string name="title_activity_select_place">Select Place</string>
@@ -33,7 +33,7 @@
     <string name="GoogleMapsDirectionsApiKey">AIzaSyDJSTSB3Ugunwpv9esz5In0Dnkpx2cNP08</string>
 
 
-    <string-array name="optymalization_modes">
+    <string-array name="optimization_modes">
         <item>Distance</item>
         <item>Time</item>
     </string-array>
@@ -49,25 +49,25 @@
     <string name="select_txt_file">Select txt file</string>
     <string name="to_database">to database</string>
     <string name="enter_or_select_categories">Select/enter categories</string>
-    <string name="type_category">Enter a category</string>
+    <string name="type_category">Enter keywords</string>
     <string name="message_place_is_to_far">" is too faar from you for weight "</string>
     <string name="message_you_cant_select_more_places">You cant select more places!</string>
     <string name="message_this_place_has_already_been_selected">This place has already been selected!</string>
     <string name="message_firs_select_place">Select place first!</string>
     <string name="please_wait">Please wait</string>
-    <string name="finding_best_rute">Finding best rute…</string>
+    <string name="finding_best_route">Finding best route…</string>
     <string name="distance_matrix_for">"Distance matrix for "</string>
     <string name="time_matrix_for">"Time matrix for "</string>
     <string name="optimal_route">"Optimal route: "</string>
     <string name="shortest_path">"Shortest path: "</string>
     <string name="longest_path">"Longest path: "</string>
-    <string name="fastest_path">"NFastest path: "</string>
+    <string name="fastest_path">"Fastest path: "</string>
     <string name="slowest_path">"Slowest path: "</string>
     <string name="places">" places "</string>
-    <string name="rating">"Ocena: "</string>
+    <string name="rating">"Rating: "</string>
     <string name="add_your_own_place">Add your own place</string>
-    <string name="radious">"Radious [m] :"</string>
-    <string name="enter_radious">"Enter radious"</string>
+    <string name="radius">"Radius [m] :"</string>
+    <string name="enter_radius">"Enter radius"</string>
     <string name="category">Category:</string>
     <string name="enter_keywords">Enter keywords</string>
     <string name="open_now">Open now</string>
@@ -79,7 +79,7 @@
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="warning">Warning!</string>
-    <string name="optymalization_mode">Optymalize by:</string>
+    <string name="optimization_mode">Optimize by:</string>
     <string name="current_location_desc">"Add this place if you want the current location to be included in the route planning"</string>
 
     <string-array name="spinner_category">

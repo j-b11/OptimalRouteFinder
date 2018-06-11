@@ -34,71 +34,78 @@ You can get your own Google Maps Api Key [here](https://developers.google.com/ma
 
 ## Screenshots:
 
-User places from local database:
+Main menu:
+
+<img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/main%20menu.png" width="360" height="640">
+
+When you select "Plan route", you have to create list of places. The route will be based on these places.
+First, you have to specify the radius. This will allow you to search for places only at a specified radius from your current location
+Then, you can select place from user places (local database):
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%201.png" width="360" height="640">
 
 
-Selecting place category:
+Or you can aslo select other category. In this case, places will be searched using [Google Places]
+((https://developers.google.com/places/web-service/intro)
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%202.png" width="360" height="640">
 
 
-Found places from category "Shopping center" in radious 500m from user location:
+There is an example of found places from category "Shopping center" in radius 500 m from user location:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%203.png" width="360" height="640">
 
 
-Finding places by keywords:
+You can also finding places by keywords:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%204.png" width="360" height="640">
 
-
-Selecting place:
+When you select some place, you have to click on it and then click "Add place":
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/find%20place%205.png" width="360" height="640">
 
 
-Selected place added on selected places list:
+This will add selected place on selected places list:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/selected%20places%201.png" width="360" height="640">
 
-
-Creating sample selected places list:
+Then you can add more places to selected places list or find a route based on these places.
+There is an example of selected places list: 
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/selected%20places%202.png" width="360" height="640">
 
 
-Finding best route for selected places list:
+When you select "Find road" button, the application will start finding the best route:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/finding%20best%20route.png" width="360" height="640">
 
 
-Best route for driving mode with optimization by distance:
+This is an example of found route for driving mode with optimization by distance:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%201.png" width="360" height="640">
+
+Below the map, you can find more information about found route, e.g. shortest path, which has been found or the longest possible path. There is also information about the order in which selected places should be visited so that the route will be optimal.
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%202.png" width="360" height="640">
 
 
-Best route for driving mode with optimization by time:
+Sample route for driving mode with optimization by time:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%203.png" width="360" height="640">
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%204.png" width="360" height="640">
 
 
-Best route for walking mode with optimization by distance:
+Sample route for walking mode with optimization by distance:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%205.png" width="360" height="640">
 
 
-Best route for cycling mode with optimization by distance:
+Sample route for cycling mode with optimization by distance:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/map%206.png" width="360" height="640">
 
-
-Start navigation to an example point:
+If you want you can click on any marker on the map and then select the navigation button on the bottom of the map. This will automatically start navigation to the selected point:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/navigate.png" width="360" height="640">
 

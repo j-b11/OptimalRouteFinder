@@ -73,8 +73,7 @@ There is an example of selected places list:
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/selected%20places%202.png" width="360" height="640">
 
-
-When you select "Find road" button, the application will start finding the best route:
+When you select "Find road" button, the application will start finding the best route in another thread. In the same time, the main thread is showing the progress bar: 
 
 <img src="https://github.com/j-b11/OptimalRouteFinder/blob/master/Screenshots/finding%20best%20route.png" width="360" height="640">
 

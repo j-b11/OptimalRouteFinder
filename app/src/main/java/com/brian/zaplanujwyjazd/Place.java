@@ -3,12 +3,26 @@ package com.brian.zaplanujwyjazd;
 import android.os.Parcel;
 import android.os.Parcelable;
 
+import lombok.Getter;
+import lombok.Setter;
+
 public class Place implements Parcelable{
+    @Getter
     private int id;
+    @Getter
+    @Setter
     private String name;
+    @Getter
+    @Setter
     private double latitude;
+    @Getter
+    @Setter
     private double longitude;
+    @Getter
+    @Setter
     private String description;
+    @Getter
+    @Setter
     private float rating;
 
 
@@ -77,48 +91,5 @@ public class Place implements Parcelable{
     public int hashCode(){
         return id;
     }
-
-    public int getId() {
-        return id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public double getLatitude() {
-        return latitude;
-    }
-
-    public double getLongitude() {
-        return longitude;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
-    public float getRating() {
-        return rating;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setLatitude(double latitude) {
-        this.latitude = latitude;
-    }
-
-    public void setLongitude(double longitude) {
-        this.longitude = longitude;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
-
-    public void setRating(float rating) {
-        this.rating = rating;
-    }
+    
 }
